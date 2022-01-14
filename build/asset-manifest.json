@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/book-a-table/static/css/main.201bee43.css",
+    "main.js": "/book-a-table/static/js/main.5274cb6e.js",
+    "static/media/logo.png": "/book-a-table/static/media/logo.ed4fe6dd995bfab70b77.png",
+    "static/media/mobileBackground.jpg": "/book-a-table/static/media/mobileBackground.b7ab064033283ad5c146.jpg",
+    "static/media/background.jpg": "/book-a-table/static/media/background.4eade6818be960eeaa26.jpg",
+    "index.html": "/book-a-table/index.html",
+    "main.201bee43.css.map": "/book-a-table/static/css/main.201bee43.css.map",
+    "main.5274cb6e.js.map": "/book-a-table/static/js/main.5274cb6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.201bee43.css",
+    "static/js/main.5274cb6e.js"
+  ]
+}
